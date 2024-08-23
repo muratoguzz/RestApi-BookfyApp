@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81BBC021-F839-401F-A1A7-55AE42B1AC07}|WebApi\\WebApi.csproj|c:\\users\\murat\\source\\repos\\bsstoreapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BBC021-F839-401F-A1A7-55AE42B1AC07}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE56F7E-1DD1-421C-ABBE-F0E79220246F}|Repositories\\Repositories.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE56F7E-1DD1-421C-ABBE-F0E79220246F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BBC021-F839-401F-A1A7-55AE42B1AC07}|WebApi\\WebApi.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BBC021-F839-401F-A1A7-55AE42B1AC07}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C52FE-8B15-4D14-882E-455816D28C9E}|Entities\\Entities.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C52FE-8B15-4D14-882E-455816D28C9E}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6850881C-13F7-4B64-8F7F-B4D151A1D0E5}|Services\\Services.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6850881C-13F7-4B64-8F7F-B4D151A1D0E5}|Services\\Services.csproj|solutionrelative:services\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5048E846-3DF9-4764-BEFE-027A38056FA9}|Presentation\\Presentation.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\presentation\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5048E846-3DF9-4764-BEFE-027A38056FA9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\rootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5048E846-3DF9-4764-BEFE-027A38056FA9}|Presentation\\Presentation.csproj|C:\\Users\\murat\\source\\repos\\bsStoreApp\\presentation\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5048E846-3DF9-4764-BEFE-027A38056FA9}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACcAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:58:58.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:56:09.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\PagedList.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\PagedList.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:35:06.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\WebApi\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:59:41.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeDocumentMoniker": "Services\\BookManager.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Services\\BookManager.cs",
+              "RelativeToolTip": "Services\\BookManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:54:05.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RootController.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\RootController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RootController.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\RootController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RootController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:48:09.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\murat\\source\\repos\\bsStoreApp\\Presentation\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:25:03.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

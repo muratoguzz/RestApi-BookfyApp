@@ -1,0 +1,12 @@
+2024-07-03 01:06:15.1090 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-07-03 20:33:42.5293 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-07-03 23:05:43.5428 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:05:43.5246102Z"}
+2024-07-03 23:06:13.6986 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:06:13.6985111Z"}
+2024-07-03 23:07:13.5211 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:07:13.5211185Z"}
+2024-07-03 23:07:36.3535 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:07:36.3534473Z"}
+2024-07-03 23:09:38.3200 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:09:38.3199761Z"}
+2024-07-03 23:10:16.1463 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-07-03T20:10:16.1462974Z"}
+2024-07-03 23:10:16.5551 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-07-03 23:16:48.8547 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-07-03T20:16:48.8451845Z"}
+2024-07-03 23:17:00.6240 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-07-03T20:17:00.6239236Z"}
+2024-07-03 23:21:35.7554 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-07-03T20:21:35.7439491Z"}

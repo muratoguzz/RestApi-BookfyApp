@@ -1,0 +1,7 @@
+2024-06-30 16:16:07.3642 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-30 16:32:10.1720 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-30 16:37:09.9918 WARN ValidateUser : Authentication failed. Wrong username or password.
+2024-06-30 16:40:11.0771 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-06-30T13:40:11.0679229Z"}
+2024-06-30 16:43:39.1331 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-30 16:44:14.4987 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-30T13:44:14.4901274Z"}
+2024-06-30 16:44:35.3695 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-30T13:44:35.3694743Z"}

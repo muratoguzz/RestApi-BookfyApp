@@ -1,0 +1,18 @@
+2024-06-28 09:46:37.8008 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 09:48:49.9143 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"65","CreateAt":"2024-06-28T06:48:49.9029924Z"}
+2024-06-28 09:48:59.8353 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 09:49:09.6221 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"60","CreateAt":"2024-06-28T06:49:09.6219143Z"}
+2024-06-28 09:49:10.2273 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 09:49:18.0805 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"1","CreateAt":"2024-06-28T06:49:18.0804341Z"}
+2024-06-28 12:50:23.5978 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 15:34:31.2643 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 15:36:24.1026 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-28T12:36:24.0951641Z"}
+2024-06-28 15:36:42.9526 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-28T12:36:42.9516246Z"}
+2024-06-28 15:44:37.7681 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 15:46:51.8073 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"1","CreateAt":"2024-06-28T12:46:51.7793317Z"}
+2024-06-28 15:48:42.5383 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"1","CreateAt":"2024-06-28T12:48:42.5382283Z"}
+2024-06-28 15:49:29.7776 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-28T12:49:29.7775632Z"}
+2024-06-28 15:50:45.4079 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"1","CreateAt":"2024-06-28T12:50:45.4078668Z"}
+2024-06-28 15:55:48.8271 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-06-28T12:55:48.8271188Z"}
+2024-06-28 16:37:34.6651 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-28 16:39:03.0147 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-06-28T13:39:03.007432Z"}

@@ -1,0 +1,2 @@
+2024-06-25 10:15:27.1454 ERROR Something went wrong: Microsoft.AspNetCore.Diagnostics.ExceptionHandlerFeature
+2024-06-25 10:16:39.1808 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-06-25T07:16:39.1427424Z"}
