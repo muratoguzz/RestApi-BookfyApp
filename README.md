@@ -16,6 +16,7 @@ This project is a comprehensive REST API built with ASP.NET Core, designed to sh
 - **Caching**: Improves performance by reducing the need to fetch the same data multiple times.
 - **Rate Limiting**: Protects the API from being overwhelmed by requests.
 - **Security**: Implements JWT for secure authentication.
+- **CORS Support**: Allows cross-origin requests to ensure compatibility with various client applications.
 
 ## Documentation
 
