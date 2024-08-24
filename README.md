@@ -18,15 +18,15 @@ This project is a comprehensive REST API built with ASP.NET Core, designed to sh
 - **Security**: Implements JWT for secure authentication.
 - **CORS Support**: Allows cross-origin requests to ensure compatibility with various client applications.
 
-  ## Database Initialization
+## Database Initialization
 
-   - Delete the `Migrations` folder if it exists.
-   - Run the following commands in the terminal to drop the existing database and create a new migration:
-     ```bash
-     dotnet ef database drop
-     dotnet ef migrations add init
-     dotnet ef database update
-     ```
+- Delete the `Migrations` folder if it exists.
+- Run the following commands in the terminal to drop the existing database and create a new migration:
+  ```bash
+  dotnet ef database drop
+  dotnet ef migrations add init
+  dotnet ef database update
+  ```
 
 ## Documentation
 
