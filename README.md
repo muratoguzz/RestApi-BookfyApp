@@ -18,6 +18,12 @@ This project is a comprehensive REST API built with ASP.NET Core, designed to sh
 - **Security**: Implements JWT for secure authentication.
 - **CORS Support**: Allows cross-origin requests to ensure compatibility with various client applications.
 
+## Configuration
+
+To ensure proper authentication, the `secretKey` section in the `JwtSettings` of the `appsettings.json` file is hidden using User-Secrets. Before running the project, you need to enter a random value for the `secretKey` section.
+
+If you encounter authentication issues, please ensure that you have set a valid `secretKey` in the `appsettings.json` file.
+
 ## Setup Instructions
 
 **Database Initialization**
